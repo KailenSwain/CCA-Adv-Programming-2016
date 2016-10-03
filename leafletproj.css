@@ -1,0 +1,17 @@
+.title{
+	font-size:50px;
+	text-align: center;
+	color:black;
+	font-family: 'Bungee Shade', cursive;
+	height:10vh;
+}
+
+body{
+	background-color:#CAD2D3;
+
+}
+
+#mapid {
+    width: 100%;
+    height:80vh;
+}
