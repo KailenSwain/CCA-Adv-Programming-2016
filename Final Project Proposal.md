@@ -17,6 +17,7 @@ to some sort of a wifi board (mkr1000 or particle photon)
 I need to research more into sensors/ IFTTT triggers to see what kind of interaction I want. 
 I guess I am wondering if you guys are against using IFTT since it might reduce some levels of complexity,
 but there would still be a decent amount of coding on the side of the actual beanie baby.
+
 -what if there is a way to have motors activate based on soundwaves- react to sound/music and move accordingly?
 
 Include a discussion how it will be interactive or responsive to the environment.
@@ -43,6 +44,10 @@ Include what types of inputs/outputs/data it will use, and a block diagram showi
          Some sort of sensor                 this is where             Motors will provide the most
          to interact with the                the code goes             visual reaction from within 
          environment                                                   a stuffed animal
+         
+         
+         
+         
 
 
 
