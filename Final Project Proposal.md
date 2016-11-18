@@ -25,6 +25,7 @@ but there would still be a decent amount of coding on the side of the actual bea
 - possibly reading for a change in passive soundwaves, and turning head that direction?
   having 2-4 audio sensors/microphone pointed in different directions, having head turn whichever way hears the most sound?
   http://www.instructables.com/id/Arduino-Frequency-Detection/
+-using motors to have it wave when it detects motion? different responses
 
 Include a discussion how it will be interactive or responsive to the environment.
 
