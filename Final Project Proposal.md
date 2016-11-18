@@ -27,6 +27,9 @@ but there would still be a decent amount of coding on the side of the actual bea
   http://www.instructables.com/id/Arduino-Frequency-Detection/
 -using motors to have it wave when it detects motion? different responses
 
+-having it use a pen or pencil and draw something on paper depending on some sort of motion? 
+-drawing the sound waves it is recieving from a microphone?
+
 Include a discussion how it will be interactive or responsive to the environment.
 
 ## Component Parts
