@@ -19,6 +19,12 @@ I guess I am wondering if you guys are against using IFTT since it might reduce 
 but there would still be a decent amount of coding on the side of the actual beanie baby.
 
 -what if there is a way to have motors activate based on soundwaves- react to sound/music and move accordingly?
+*** potential ideas updated 11/17 4:43pm ***
+
+-animal tail and head are moving until it detects someone is nearby
+- possibly reading for a change in passive soundwaves, and turning head that direction?
+  having 2-4 audio sensors/microphone pointed in different directions, having head turn whichever way hears the most sound?
+  http://www.instructables.com/id/Arduino-Frequency-Detection/
 
 Include a discussion how it will be interactive or responsive to the environment.
 
