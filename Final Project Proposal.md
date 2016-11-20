@@ -34,6 +34,7 @@ but there would still be a decent amount of coding on the side of the actual bea
 
 facial recognition and tracking?
 see example : http://www.instructables.com/id/Face-detection-and-tracking-with-Arduino-and-OpenC/
+https://www.sparkfun.com/tutorials/304
 
 
 Include a discussion how it will be interactive or responsive to the environment.
