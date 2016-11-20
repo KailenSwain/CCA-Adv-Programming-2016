@@ -36,6 +36,9 @@ facial recognition and tracking?
 see example : http://www.instructables.com/id/Face-detection-and-tracking-with-Arduino-and-OpenC/
 https://www.sparkfun.com/tutorials/304
 
+*** potential ideas updated 11/19/ 11:15pm ***
+  make a mini google maps car with autonomous driving and a camera using an rc car?
+  
 
 Include a discussion how it will be interactive or responsive to the environment.
 
