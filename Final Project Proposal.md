@@ -30,6 +30,12 @@ but there would still be a decent amount of coding on the side of the actual bea
 -having it use a pen or pencil and draw something on paper depending on some sort of motion? 
 -drawing the sound waves it is recieving from a microphone?
 
+*** potential ideas updated 11/19/ 4:55pm ***
+
+facial recognition and tracking?
+see example : http://www.instructables.com/id/Face-detection-and-tracking-with-Arduino-and-OpenC/
+
+
 Include a discussion how it will be interactive or responsive to the environment.
 
 ## Component Parts
