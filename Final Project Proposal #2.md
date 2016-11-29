@@ -68,3 +68,7 @@ this is a living section- will be evolving as my research moves forward
 http://www.instructables.com/id/Arduino-Powered-Autonomous-Vehicle/?ALLSTEPS
 http://makezine.com/projects/build-android-powered-autonomous-rc-car/
 
+http://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
+http://opencv.org
+https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino/using-dc-motors
+http://www.instructables.com/id/Autonomous-Control-of-RC-Car-Using-Arduino/
