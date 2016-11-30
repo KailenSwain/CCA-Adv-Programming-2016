@@ -74,4 +74,4 @@ http://www.instructables.com/id/Autonomous-Control-of-RC-Car-Using-Arduino/
 
 http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
 
-http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
+https://www.youtube.com/watch?v=QLHMtE5XsMs
