@@ -71,3 +71,5 @@ http://makezine.com/projects/build-android-powered-autonomous-rc-car/
 http://www.pyimagesearch.com/2015/10/26/how-to-install-opencv-3-on-raspbian-jessie/
 https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino/using-dc-motors
 http://www.instructables.com/id/Autonomous-Control-of-RC-Car-Using-Arduino/
+
+http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
