@@ -1,8 +1,8 @@
 ##What I learned how to do from this project:
 
--Set up a raspberry pi
--Set up processing on a raspberry pi
--Install arduino and firmata on a raspberry pi for use in processing
+--Set up a raspberry pi
+--Set up processing on a raspberry pi
+--Install arduino and firmata on a raspberry pi for use in processing
 -Compare previous and current video frames in processing
 -Initialize webcam usage on a raspberry pi
 -How to Use firmata for I2C communication
